@@ -9,11 +9,5 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
-  
-  <ItemGroup>
-    <None Remove="scripts\add-app-offline.ps1" />
-    <None Remove="scripts\remove-app-offline.ps1" />
-    <None Remove="scripts\test.ps1" />
-  </ItemGroup>
 
 </Project>
